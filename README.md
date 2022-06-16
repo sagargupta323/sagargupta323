@@ -1,6 +1,5 @@
 - 👋 Hi, I’m sagar gupta
 - 👀 I’m a Bigdata professional working on Business Intelligence solutions.
-- 💞️ I’m looking to collaborate on data science /ML projects
 - 📫 How to reach me : smsme323@gail.com/  linkedin.com/in/sagargupta323
 
 <!---
